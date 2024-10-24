@@ -1,0 +1,8 @@
+.product_detail{
+    margin: 80px;
+    display: inline-flex;
+}
+.item_detail_text{
+    padding-left: 50px;
+    padding-bottom: 15px;
+}
